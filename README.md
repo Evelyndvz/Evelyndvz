@@ -2,7 +2,7 @@
 
 > **Desenvolvedora de Sistemas em Formação | 16 anos**
 
-Bem-vindo(a) ao meu GitHub! Sou apaixonada por tecnologia e por transformar ideias em linhas de código. Atualmente, estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro**, onde venho aprimorando minhas habilidades práticas e construindo minha base na programação. 
+Bem-vindo(a) ao meu GitHub! Atualmente, estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro**, onde venho aprimorando minhas habilidades práticas e construindo minha base na programação. 
 
 Estou sempre em busca de aprender coisas novas, superar desafios e compartilhar minha evolução por aqui.
 
