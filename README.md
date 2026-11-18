@@ -1,6 +1,6 @@
 # Olá, eu sou a Evelyn Lorenna!
 
-> **Desenvolvedora de Sistemas em Formação | 16 anos**
+> **Desenvolvedora de Sistemas em Formação | 17 anos**
 
 Bem-vindo(a) ao meu GitHub! Atualmente, estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro**, onde venho aprimorando minhas habilidades práticas e construindo minha base na programação. 
 
