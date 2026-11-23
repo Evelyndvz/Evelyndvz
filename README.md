@@ -1,10 +1,8 @@
 # Olá, eu sou a Evelyn Lorenna!
 
-> **Desenvolvedora de Sistemas em Formação |
+> Desenvolvedora de Sistemas em Formação
 
 Bem-vindo(a) ao meu GitHub! Atualmente, estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro**, onde venho aprimorando minhas habilidades práticas e construindo minha base na programação. 
-
-Estou sempre em busca de aprender coisas novas, superar desafios e compartilhar minha evolução por aqui.
 
 <a href="https://www.instagram.com/_evelyndvz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
